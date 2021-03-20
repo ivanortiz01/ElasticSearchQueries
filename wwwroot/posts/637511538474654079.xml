@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>test</title>
+  <slug>test</slug>
+  <pubDate>2021-03-12 13:50:56</pubDate>
+  <lastModified>2021-03-12 13:50:56</lastModified>
+  <excerpt>test</excerpt>
+  <content>&lt;p&gt;test&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>test</category>
+  </categories>
+  <comments></comments>
+</post>
